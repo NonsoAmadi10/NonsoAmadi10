@@ -1,16 +1,15 @@
-### Hi there 👋
+### Salut!👋
 
-<!--
-**NonsoAmadi10/NonsoAmadi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Before you is a fullstack software Engineer with a knack for adding Longterm value to your business. I always love a challenge and I have never backed down from one even when it beats me, I always find a way!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on a product known as [nickels](https://github.com/NonsoAmadi10/Nickels). It is an all-in-one solution for your financial needs!
+- 🌱 I’m currently learning GraphQL with the django framework and a react frontend.
+- 👯 I’m looking to collaborate on building a product people will love and want to keep using. There is no greater feeling than seeing you build solutions that put smiles on the faces of people and this is what I live for
+
+- 💬 Ask me about JavaScript, Python and Software Architecture.
+- 📫 How to reach me: [@jackhoudini__](https://twitter.com)
+- ⚡ Fun fact:  I love the netherlands 
+
