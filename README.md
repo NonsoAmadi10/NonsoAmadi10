@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning GraphQL with the django framework and a react frontend.
 - 👯 I’m looking to collaborate on building a product people will love and want to keep using. There is no greater feeling than seeing you build solutions that put smiles on the faces of people and this is what I live for
 
-- 💬 Ask me about JavaScript, Python and Software Architecture.
+- 💬 Ask me about JavaScript, Python and Microservices.
 - 📫 How to reach me: [@jackhoudini__](https://twitter.com)
-- ⚡ Fun fact:  I love the netherlands 
+- ⚡ Fun fact:  I would love to visit Mars! 
 
