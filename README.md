@@ -12,7 +12,6 @@
 
 * 🪛 Site Reliability Engineer specializing in Architecting Resilient and Reliable Software Systems, Linux System Administration and Developer Tooling.
 * 🛠️ Currently building bitcoin infrastructure  1 sats at a timne at [Bitnob](https://github.com/bitnob).
-* 💥 Making a comic reader app for iOS called [iComics](https://icomics.co).
 * 💻 Loves publishing [open source software on GitHub](https://github.com/NonsoAmadi10?tab=repositories&type=source).
 * From 🇳🇬 Nigeria🇬 
 * 🎮 Loves playing ⚽ on  [Playstation](https://store.playstation.com/en-gb/pages/latest) and [Splatoon 2](https://www.nintendo.com/games/detail/splatoon-2-switch/).
