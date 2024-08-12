@@ -2,15 +2,9 @@
 
 ## 🚀 Site Reliability Engineer | DevOps Enthusiast | Cloud Architect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/justice-amadi/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitter.com/jackhoudini__">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" />
-  </a>
-  <img src="https://img.shields.io/github/followers/NonsoAmadi10?label=Follow&style=social" alt="GitHub followers" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%233781da)](https://www.linkedin.com/in/justice-amadi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2)](https://www.twitter.com/jackhoudini__)
+![GitHub followers](https://img.shields.io/github/followers/NonsoAmadi10?label=Follow&style=social)
 
 ## About Me
 
@@ -60,6 +54,7 @@ As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NonsoAmadi10&theme=gruvbox&hide_border=true)
+
 
 ## 🤝 Let's Connect!
 
