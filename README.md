@@ -57,10 +57,9 @@ As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable
 - Enhancing security practices in CI/CD pipelines
 
 ## 📈 GitHub Stats
-
-[![Chinonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonsoAmadi10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoAmadi10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NonsoAmadi10&theme=gruvbox&hide_border=true)
 
 ## 🤝 Let's Connect!
 
