@@ -1,6 +1,3 @@
-Certainly! I'll merge the content from both READMEs, incorporating your current information and the style from the new one. Here's the combined version:
-
-```markdown
 # Hello! 👋 I'm Chinonso Amadi
 
 ## 🚀 Site Reliability Engineer | DevOps Enthusiast | Cloud Architect
@@ -68,4 +65,3 @@ As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable
 
 I'm always open to discussing new technologies, exciting projects, or potential collaborations. Feel free to reach out!
 
-```
