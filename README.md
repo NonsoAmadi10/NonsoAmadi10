@@ -1,8 +1,8 @@
 # Hello! 👋 I'm Chinonso Amadi
 
-## 🚀 Site Reliability Engineer | DevOps Enthusiast | Cloud Architect
+## 🚀 Senior Site Reliability Engineer | DevOps Enthusiast | Data & MLOPS Engineering
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%233781da)](https://www.linkedin.com/in/justice-amadi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%233781da)](https://www.linkedin.com/in/nonso-amadi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2)](https://www.twitter.com/jackhoudini__)
 ![GitHub followers](https://img.shields.io/github/followers/NonsoAmadi10?label=Follow&style=social)
 
@@ -13,6 +13,7 @@
 - 💻 **Open Source Contributor:** Sharing work through [GitHub](https://github.com/NonsoAmadi10?tab=repositories&type=source)
 - 🌍 **Location:** Worldwide (Digital Nomad)
 - 🎮 **Hobbies:** Fortnite, EA Sports FC, chess, and playing the guitar 🎸
+- 🔐 **Certifications & Achievements:** Certified Kubernetes Administrator (CKA), led infrastructure audits to achieve PCI-DSS, SOC 2, and ISO certifications
 
 ## 💻 What I Do
 
@@ -23,14 +24,17 @@ As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable
 - 🔧 Infrastructure as Code (Terraform, Helm)
 - 📊 Monitoring & Observability (Prometheus, Datadog)
 - 🚀 CI/CD Pipelines
+- 🔐 Infrastructure Security & Compliance
+- 🧠 Playing around Data Platforms, AI Tools & Systems
 - 🐍 Scripting (Python, JavaScript)
 - 🧑‍💻 Programming (Golang)
 
 ## 🏆 Achievements
 
 - 🚀 Scaled infrastructure to support user growth from 10k to 100k
-- 🔄 Migrated workloads from DigitalOcean to Kubernetes clusters with zero downtime
-- 👁️ Enhanced observability stack for real-time performance monitoring
+- 🧹 Migrated legacy infrastructure to Kubernetes with zero downtime
+- 🔭 Built observability pipelines for high-fidelity alerting
+- 📜 Helped achieve PCI-DSS, SOC 2, and ISO certification at Bitnob
 
 ## 🛠️ Tech Stack
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -46,9 +50,13 @@ As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable
 
 ## 🌱 Current Focus
 
-- Exploring advanced Kubernetes patterns
-- Diving deeper into GitOps methodologies
-- Enhancing security practices in CI/CD pipelines
+- Advancing toward Staff-level SRE/DevOps Architect
+
+- Designing reliable data and AI systems
+
+- Enhancing security in CI/CD pipelines
+
+- Sharing best practices in SRE, DevOps, and architecture
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
