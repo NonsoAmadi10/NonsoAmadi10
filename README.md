@@ -1,40 +1,46 @@
 # Hello! 👋 I'm Chinonso Amadi
 
-## 🚀 Senior Site Reliability Engineer | DevOps Enthusiast | Data & MLOPS Engineering
+## 🚀 Senior Site Reliability Engineer | Security Engineer | Cryptography & ZK Systems Builder
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%233781da)](https://www.linkedin.com/in/nonso-amadi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2)](https://www.twitter.com/jackhoudini__)
 ![GitHub followers](https://img.shields.io/github/followers/NonsoAmadi10?label=Follow&style=social)
 
 ## About Me
+I build secure, reliable, and cryptographically sound systems.
+My background in Site Reliability Engineering and infrastructure gives me a strong foundation for designing and scaling distributed systems that prioritize trust, verifiability, and resilience.
 
-- 🪛 **Expertise:** Site Reliability Engineering, Linux System Administration, Developer Tooling
-- 🛠️ **Current Role:** Building Bitcoin infrastructure at [Bitnob](https://github.com/bitnob)
-- 💻 **Open Source Contributor:** Sharing work through [GitHub](https://github.com/NonsoAmadi10?tab=repositories&type=source)
-- 🌍 **Location:** Worldwide (Digital Nomad)
-- 🎮 **Hobbies:** Fortnite, EA Sports FC, chess, and playing the guitar 🎸
-- 🔐 **Certifications & Achievements:** Certified Kubernetes Administrator (CKA), led infrastructure audits to achieve PCI-DSS, SOC 2, and ISO certifications
+Now, I’m diving deep into applied cryptography — focusing on Zero-Knowledge Proofs, secure computation, and privacy-preserving infrastructure for the next generation of internet protocols.
+
+- 🧰 Current Role: Senior SRE at [Bitnob](https://bitnob.com) — building Bitcoin & Lightning infrastructure for Africa
+- 🧱 Focus Areas: Cryptography, Zero-Knowledge Systems, Secure Infrastructure
+- 🧩 Background: Cloud, Kubernetes, DevOps, Infrastructure Security
+- 🌍 Location: Abuja, Nigeria → Preparing for relocation to Europe/Canada (2026)
+- 🎯 Goal (2025–2026): Transition into Security & Cryptography Engineering, specializing in ZK Infrastructure and Proof Systems
+
 
 ## 💻 What I Do
+I’m focused on bringing cryptographic guarantees into real-world distributed systems.
+That means blending infrastructure engineering with applied research and practical system design.
 
-As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable, and efficient systems. My expertise includes:
-
-- 🌐 Cloud Infrastructure (GCP, AWS, DigitalOcean)
-- 🐳 Containerization & Orchestration (Kubernetes, Docker)
+- 🔐 Applied Cryptography: Zero-Knowledge Proofs (zk-SNARKs, zk-STARKs), MPC, signatures
+- 🧩 Security Engineering: Threat modeling, key management, supply-chain hardening
 - 🔧 Infrastructure as Code (Terraform, Helm)
-- 📊 Monitoring & Observability (Prometheus, Datadog)
+- 🧱 Infrastructure: Kubernetes, Terraform, Helm, ArgoCD
 - 🚀 CI/CD Pipelines
 - 🔐 Infrastructure Security & Compliance
-- 🧠 Playing around Data Platforms, AI Tools & Systems
-- 🐍 Scripting (Python, JavaScript)
-- 🧑‍💻 Programming (Golang)
+- 🧠 Blockchain Systems: Bitcoin, Lightning, EVM & zkEVM ecosystems
+- 🧮 Programming: Go, Python, Rust (learning), Bash
+- 🧰 Tooling: Prometheus, Grafana, Datadog, OpenTelemetry
 
 ## 🏆 Achievements
 
-- 🚀 Scaled infrastructure to support user growth from 10k to 100k
+- 🔭 Building Bitcoin + Lightning infrastructure at scale (Bitnob)
 - 🧹 Migrated legacy infrastructure to Kubernetes with zero downtime
 - 🔭 Built observability pipelines for high-fidelity alerting
-- 📜 Helped achieve PCI-DSS, SOC 2, and ISO certification at Bitnob
+- 🔐 Supported compliance readiness for PCI-DSS, SOC 2, ISO standards
+- 🧠 Implemented internal security automation in CI/CD pipelines
+- 🧮 Currently researching Zero-Knowledge Proofs and cryptographic primitives for infrastructure security
 
 ## 🛠️ Tech Stack
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -48,15 +54,30 @@ As a seasoned DevOps Engineer, I'm passionate about building resilient, scalable
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌱 Current Focus
+🔬 Current Focus
+- 🧩 Cryptography
 
-- Advancing toward Staff-level SRE/DevOps Architect
+  * Studying Zero-Knowledge Proofs (Groth16, Plonk, Halo2)
 
-- Designing reliable data and AI systems
+  * Experimenting with zk circuits and verifiable computation
 
-- Enhancing security in CI/CD pipelines
+  * Exploring cryptographic infrastructure for privacy-preserving systems
 
-- Sharing best practices in SRE, DevOps, and architecture
+- 🔐 Security & Reliability
+
+  * Hardening CI/CD pipelines against supply-chain threats
+
+  * Building secure build & signing systems
+
+  * Applying cryptography to infrastructure observability
+
+- 💡 Research & Writing
+
+  * Writing about the intersection of cryptography, reliability, and systems engineering
+
+  * Documenting experiments in zk libraries (Arkworks, Circom, Noir, Halo2)
+
+  * Publishing open-source infra & ZK research tools
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
