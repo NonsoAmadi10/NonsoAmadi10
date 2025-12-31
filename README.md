@@ -72,7 +72,7 @@ Currently deep-diving into:
 ## 📚 Writing & Talks
 
 I write about Bitcoin security, confidential computing, and production cryptography:
-- 📝 [Blog posts coming soon] - Technical deep-dives on Bitcoin custody architecture
+- 📝 [Wartime Engineer](https://medium.com/@jackhoudini) - Technical deep-dives on Bitcoin custody architecture
 - 🎤 Conference submissions (2026): Bitcoin++, Adopting Bitcoin, TabConf
 - 🎥 Technical tutorials: Building with Nitro Enclaves, FROST implementation guides
 
@@ -115,13 +115,13 @@ I'm actively seeking roles in:
 
 I'm always open to discussing Bitcoin security, confidential computing, threshold cryptography, or potential collaborations.
 
-- 📧 Email: [Your Email]
+- 📧 Email: [nonsoamadi@aol.com](nonsoamadi@aol.com)
 - 🐦 Twitter: [@jackhoudini__](https://twitter.com/jackhoudini__)
 - 💼 LinkedIn: [nonso-amadi](https://www.linkedin.com/in/nonso-amadi/)
-- 📝 Blog: [Coming Soon]
+- 📝 Blog: [Wartime Engineer](https://medium.com/@jackhoudini)
 
 ---
 
 **Currently building**: Bitcoin custody infrastructure with confidential computing
 **Currently learning**: FROST threshold signatures, Nitro Enclave development, Bitcoin Script
-**Currently seeking**: Remote Bitcoin infrastructure security roles ($120k-$180k)
+**Currently seeking**: Remote Bitcoin infrastructure security roles
