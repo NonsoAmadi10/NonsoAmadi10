@@ -1,80 +1,47 @@
 # Hello! 👋 I'm Chinonso Amadi
 
-## 🔐 Bitcoin Infrastructure Security Engineer | Confidential Computing & Threshold Cryptography
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%233781da)](https://www.linkedin.com/in/nonso-amadi/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2)](https://www.twitter.com/jackhoudini__)
-![GitHub followers](https://img.shields.io/github/followers/NonsoAmadi10?label=Follow&style=social)
+## 🔐 Bitcoin Infrastructure Security Engineer | Threshold Cryptography & Confidential Computing
 
 ## About Me
-I build secure Bitcoin custody infrastructure using confidential computing and threshold cryptography.
 
-My background in Site Reliability Engineering gives me a strong foundation for designing production-grade systems that prioritize security, verifiability, and resilience. Now I'm specializing in the intersection of Bitcoin security, Trusted Execution Environments (TEEs), and threshold signatures.
+I secure Bitcoin infrastructure through applied cryptography and systems engineering.
 
-- 🧰 Current Role: Senior SRE at [Bitnob](https://bitnob.com) — Building Bitcoin & Lightning infrastructure for Africa
-- 🔐 Specialization: Bitcoin custody security, threshold signatures (FROST, MuSig2), confidential computing (AWS Nitro Enclaves)
-- 🧱 Background: Infrastructure security, Kubernetes, cloud architecture
-- 🌍 Location: Lagos, Nigeria → Moving to Kigali, Rwanda (2026)
-- 🎯 2026 Goal: Transition into Bitcoin infrastructure security engineering, specializing in TEE-based custody and threshold cryptography
+My background in Site Reliability Engineering gives me a foundation for understanding production systems at scale. Now I specialize in the security layer: analyzing and hardening cryptographic protocols, auditing confidential computing implementations, and building secure infrastructure for Bitcoin applications.
 
-## 💻 What I Build
+- 🔐 **Core Focus**: Bitcoin protocol security, threshold cryptography (FROST, MuSig2), confidential computing (TEEs)
+- 🧰 **Current Role**: Senior SRE at [Bitnob](https://bitnob.com) — Building Bitcoin & Lightning infrastructure for Africa
+- 🔬 **Research Interests**: Threshold signature security models, side-channel resistance, key management protocols
+- 🌍 **Location**: Lagos, Nigeria → Relocating to Estonia/Europe (2026)
+- 🎯 **2026 Goal**: Transition into Bitcoin infrastructure security engineering with focus on cryptographic protocol implementation and security auditing
 
-I'm focused on making Bitcoin custody infrastructure secure, auditable, and resilient through the application of confidential computing and advanced cryptographic protocols.
+## 💻 What I Do
 
-**Core Focus:**
-- 🔐 **Bitcoin Custody Security**: Multi-signature coordination, threshold signatures, hardware-backed key management
-- 🧩 **Confidential Computing**: AWS Nitro Enclaves, remote attestation, secure multi-party computation
-- 🔑 **Threshold Cryptography**: FROST, MuSig2, distributed key generation (DKG)
-- 🛡️ **Infrastructure Security**: Supply chain hardening, secure build systems, attestation protocols
-- 🏗️ **Production Systems**: Kubernetes, Terraform, observability, high-availability architecture
+I work at the intersection of cryptography, security engineering, and Bitcoin infrastructure.
 
-**Technical Stack:**
+**Security Engineering:**
+- 🔍 Security analysis of threshold signature schemes (FROST, MuSig2)
+- 🛡️ Hardening cryptographic implementations (constant-time operations, nonce security)
+- 🔐 Auditing confidential computing deployments (TEEs, attestation, side-channels)
+- 🧩 Threat modeling for Bitcoin infrastructure (attack surface analysis, mitigation strategies)
+
+**Applied Cryptography:**
+- 🔑 Threshold signatures (FROST, MuSig2, ROAST)
+- 🧮 Key management protocols (DKG, key ceremonies, backup/recovery)
+- 🔒 Confidential computing (AWS Nitro Enclaves, remote attestation)
+- 📊 Security auditing (protocol analysis, implementation review)
+
+**Infrastructure:**
+- 🏗️ Production systems (Kubernetes, Terraform, high-availability architecture)
+- 📈 Security observability (monitoring, anomaly detection, incident response)
+- 🔧 Supply chain security (reproducible builds, dependency verification)
+
+**Tech Stack:**
 - **Languages**: Rust, Go, Python, Bash
-- **Bitcoin/Lightning**: Bitcoin Core, LND, rust-bitcoin, Bitcoin Dev Kit (BDK)
+- **Bitcoin**: Bitcoin Core, rust-bitcoin, Bitcoin Dev Kit (BDK)
 - **Cryptography**: secp256k1, FROST, Schnorr signatures, PSBTs
-- **TEEs**: AWS Nitro Enclaves, attestation documents, secure enclaves
-- **Infrastructure**: Kubernetes, Terraform, Helm, ArgoCD
-- **Observability**: Prometheus, Grafana, OpenTelemetry
+- **TEEs**: AWS Nitro Enclaves, attestation protocols
+- **Infrastructure**: Kubernetes, Terraform, Helm, AWS
 
-## 🏗️ Current Projects
-
-### 🔐 Bitcoin TEE Custody Coordinator
-Building a production-grade multi-signature coordinator that uses AWS Nitro Enclaves for hardware-backed key protection:
-- FROST threshold signatures (3-of-5, 5-of-7 configurations)
-- Remote attestation for signing operations
-- PSBT workflow with TEE-backed signing
-- Audit logging and key ceremony protocols
-- [Repository Coming Soon]
-
-### 🧩 Threshold Signature Research
-Implementing and comparing threshold signature schemes for Bitcoin:
-- FROST vs MuSig2 trade-off analysis
-- Performance benchmarks and security models
-- Production deployment patterns
-- [Read my analysis →](#) [Coming Soon]
-
-### 🛡️ Bitcoin Infrastructure Security Toolkit
-Open-source security templates and threat models for Bitcoin infrastructure:
-- Terraform modules for secure Bitcoin node deployment
-- Kubernetes security standards for custody systems
-- Threat modeling frameworks for Bitcoin companies
-- [Repository Coming Soon]
-
-## 🎓 Learning & Research
-
-Currently deep-diving into:
-- **Bitcoin Protocol**: Script, Miniscript, Taproot, Schnorr signatures
-- **Threshold Cryptography**: FROST protocol, MuSig2 (BIP-327), verifiable secret sharing
-- **Confidential Computing**: Nitro Enclave architecture, attestation verification, sealed storage
-- **Hardware Security**: HSMs (PKCS#11), secure elements, side-channel resistance
-- **Production Security**: Key ceremonies, disaster recovery, incident response for custody systems
-
-## 📚 Writing & Talks
-
-I write about Bitcoin security, confidential computing, and production cryptography:
-- 📝 [Wartime Engineer](https://medium.com/@jackhoudini) - Technical deep-dives on Bitcoin custody architecture
-- 🎤 Conference submissions (2026): Bitcoin++, Adopting Bitcoin, TabConf
-- 🎥 Technical tutorials: Building with Nitro Enclaves, FROST implementation guides
 
 ## 🛠️ Tech Stack
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
@@ -108,19 +75,81 @@ I'm actively seeking roles in:
 - Threshold cryptography implementation
 - Custody systems architecture
 
-**Interested in**: Remote roles at Bitcoin companies, security-focused infrastructure positions, applied cryptography engineering.
+## 🔬 Current Research & Projects
+
+### 🔐 Threshold Signature Security Analysis
+Researching attack vectors and hardening techniques for FROST-based threshold signatures:
+- Nonce reuse attack prevention
+- Coordinator security model analysis
+- Constant-time implementation patterns
+- [Repository Coming Soon]
+
+### 🛡️ TEE Security Audit Framework
+Building tools for auditing confidential computing implementations:
+- Attestation verification
+- Side-channel resistance testing
+- Sealed storage security analysis
+- [Repository Coming Soon]
+
+### 🧩 Bitcoin Infrastructure Security Toolkit
+Open-source security templates and protocols:
+- Key ceremony procedures
+- Threat modeling frameworks
+- Disaster recovery protocols
+- [Repository Coming Soon]
+
+## 🎓 Learning & Writing
+
+**Currently deep-diving:**
+- Bitcoin protocol security (Script vulnerabilities, consensus attacks)
+- Threshold cryptography (FROST protocol, security proofs)
+- Confidential computing (Nitro architecture, side-channel attacks)
+- Production security (key management, incident response)
+
+**Technical writing:**
+- Security analysis of cryptographic protocols
+- Threat modeling for Bitcoin infrastructure
+- Implementation security best practices
+- 📝 [Wartime Engineer](https://medium.com/@jackhoudini) 
+
+## 🏆 Background
+
+- 🔐 Building Bitcoin + Lightning infrastructure at scale (100k+ users across Africa)
+- 🛡️ Implemented security automation and compliance frameworks (PCI-DSS, SOC2)
+- 🧹 Led zero-downtime migrations to Kubernetes
+- 📖 BTrust Faculty - Teaching Bitcoin protocol development
+- 🔧 Built observability and security monitoring pipelines
+
+## 📚 Open Source Contributions
+
+Contributing to Bitcoin infrastructure security:
+- rust-bitcoin ecosystem (planned)
+- FROST implementations (planned)
+- Security tooling and documentation
+
+## 💼 Open to Opportunities
+
+Seeking roles in:
+- Bitcoin infrastructure security engineering
+- Cryptographic protocol implementation & auditing  
+- Threshold cryptography research & development
+- Security architecture for Bitcoin systems
+
+**Interested in**: Remote roles with Bitcoin companies, security-focused engineering positions, applied cryptography research.
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing Bitcoin security, confidential computing, threshold cryptography, or potential collaborations.
+I'm always open to discussing Bitcoin security, threshold cryptography, confidential computing, or potential collaborations.
+
 
 - 📧 Email: [nonsoamadi@aol.com](nonsoamadi@aol.com)
 - 🐦 Twitter: [@jackhoudini__](https://twitter.com/jackhoudini__)
 - 💼 LinkedIn: [nonso-amadi](https://www.linkedin.com/in/nonso-amadi/)
 - 📝 Blog: [Wartime Engineer](https://medium.com/@jackhoudini)
-
 ---
 
-**Currently building**: Bitcoin custody infrastructure with confidential computing
-**Currently learning**: FROST threshold signatures, Nitro Enclave development, Bitcoin Script
+
+
+**Currently building**: Bitcoin infrastructure security toolkit with threshold cryptography and TEE integration  
+**Currently researching**: FROST security models, side-channel resistance in Bitcoin key operations  
 **Currently seeking**: Remote Bitcoin infrastructure security roles
