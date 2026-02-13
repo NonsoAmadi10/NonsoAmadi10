@@ -1,155 +1,139 @@
-# Hello! 👋 I'm Chinonso Amadi
+# Chinonso Amadi
 
-## 🔐 Bitcoin Infrastructure Security Engineer | Threshold Cryptography & Confidential Computing
+## Platform Engineer | SRE | Building toward MLOps & Data Infrastructure
 
 ## About Me
 
-I secure Bitcoin infrastructure through applied cryptography and systems engineering.
+Platform engineer with 7 years building and operating high-availability production systems. Strong foundation in Kubernetes, cloud infrastructure (AWS/GCP), and Infrastructure as Code. Currently expanding into MLOps and data platform engineering—bringing reliability engineering principles to ML systems.
 
-My background in Site Reliability Engineering gives me a foundation for understanding production systems at scale. Now I specialize in the security layer: analyzing and hardening cryptographic protocols, auditing confidential computing implementations, and building secure infrastructure for Bitcoin applications.
+**Background:**
+- Built and operated 99.99% uptime platforms serving 100K+ users
+- Specialized in compliance-ready infrastructure (PCI-DSS, SOC2, ISO 27001)
+- Led zero-downtime cloud migrations and disaster recovery implementations
+- Experience with financial systems and security-critical infrastructure
 
-- 🔐 **Core Focus**: Bitcoin protocol security, threshold cryptography (FROST, MuSig2), confidential computing (TEEs)
-- 🧰 **Current Role**: Senior SRE at [Bitnob](https://bitnob.com) — Building Bitcoin & Lightning infrastructure for Africa
-- 🔬 **Research Interests**: Threshold signature security models, side-channel resistance, key management protocols
-- 🌍 **Location**: Lagos, Nigeria → Relocating to Estonia/Europe (2026)
-- 🎯 **2026 Goal**: Transition into Bitcoin infrastructure security engineering with focus on cryptographic protocol implementation and security auditing
+**Current Focus:**
+- MLOps: Model deployment pipelines, feature engineering infrastructure
+- Data Platform Engineering: Pipeline orchestration, observability for data systems
+- Platform Engineering: Kubernetes operators, GitOps, policy-as-code
+
+
+---
 
 ## 💻 What I Do
 
-I work at the intersection of cryptography, security engineering, and Bitcoin infrastructure.
+**Platform & Infrastructure Engineering:**
+- 🏗️ Production Kubernetes clusters (CKA certified) with 99.99%+ uptime
+- ☁️ Cloud infrastructure (AWS/GCP) using Terraform/Pulumi
+- 🔄 GitOps and CI/CD pipelines for automated deployments
+- 📊 Observability: Prometheus, Grafana, Loki, distributed tracing
+- 🛡️ Security: Zero-trust architecture, policy-as-code (OPA), compliance automation
 
-**Security Engineering:**
-- 🔍 Security analysis of threshold signature schemes (FROST, MuSig2)
-- 🛡️ Hardening cryptographic implementations (constant-time operations, nonce security)
-- 🔐 Auditing confidential computing deployments (TEEs, attestation, side-channels)
-- 🧩 Threat modeling for Bitcoin infrastructure (attack surface analysis, mitigation strategies)
+**MLOps & Data Platform (Expanding):**
+- 🤖 Model deployment infrastructure and serving layers
+- 📈 ML pipeline orchestration (Airflow, Kubeflow)
+- 🔧 Feature store architecture and data versioning
+- 📊 ML observability and model monitoring systems
 
-**Applied Cryptography:**
-- 🔑 Threshold signatures (FROST, MuSig2, ROAST)
-- 🧮 Key management protocols (DKG, key ceremonies, backup/recovery)
-- 🔒 Confidential computing (AWS Nitro Enclaves, remote attestation)
-- 📊 Security auditing (protocol analysis, implementation review)
+**Core Skills:**
+- **Languages:** Python, Go, Bash, Rust
+- **Orchestration:** Kubernetes, Docker, Helm
+- **IaC:** Terraform, Pulumi, CloudFormation
+- **CI/CD:** GitLab CI, GitHub Actions, ArgoCD
+- **Cloud:** AWS (primary), GCP
+- **Observability:** Prometheus, Grafana, Datadog, ELK stack
+- **MLOps (Learning):** Kubeflow, MLflow, Airflow, SageMaker
 
-**Infrastructure:**
-- 🏗️ Production systems (Kubernetes, Terraform, high-availability architecture)
-- 📈 Security observability (monitoring, anomaly detection, incident response)
-- 🔧 Supply chain security (reproducible builds, dependency verification)
-
-**Tech Stack:**
-- **Languages**: Rust, Go, Python, Bash
-- **Bitcoin**: Bitcoin Core, rust-bitcoin, Bitcoin Dev Kit (BDK)
-- **Cryptography**: secp256k1, FROST, Schnorr signatures, PSBTs
-- **TEEs**: AWS Nitro Enclaves, attestation protocols
-- **Infrastructure**: Kubernetes, Terraform, Helm, AWS
-
+---
 
 ## 🛠️ Tech Stack
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
-![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
-## 🏆 Achievements
+---
 
-- 🔐 Building Bitcoin + Lightning infrastructure at scale serving 100k+ users across Africa
-- 🧹 Led migration of legacy systems to Kubernetes with zero downtime
-- 🛡️ Implemented infrastructure security automation and compliance frameworks (PCI-DSS, SOC2)
-- 🔭 Built observability pipelines for real-time Bitcoin transaction monitoring
-- 🧠 Currently building production Bitcoin custody systems with TEE backing
-- 📖 BTrust Faculty - Teaching Bitcoin protocol development
+## 🏆 Key Achievements
+
+- ✅ Maintained 99.99% uptime for production platforms serving 100K+ daily users
+- ✅ Led zero-downtime cloud migration for critical financial infrastructure
+- ✅ Implemented automated compliance frameworks achieving PCI-DSS and ISO 27001 certification
+- ✅ Built observability pipelines reducing MTTR by 30%
+- ✅ Designed disaster recovery systems with <15min RTO
+- ✅ CKA Certified (Kubernetes Administrator)
+- ✅ AWS Certified Solutions Architect & Data Engineer Associate
+
+---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NonsoAmadi10&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NonsoAmadi10&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
-## 💼 Open to Opportunities
+---
 
-I'm actively seeking roles in:
-- Bitcoin infrastructure security engineering
-- Confidential computing & TEE development
-- Threshold cryptography implementation
-- Custody systems architecture
+## 🔬 Current Projects
 
-## 🔬 Current Research & Projects
-
-### 🔐 Threshold Signature Security Analysis
-Researching attack vectors and hardening techniques for FROST-based threshold signatures:
-- Nonce reuse attack prevention
-- Coordinator security model analysis
-- Constant-time implementation patterns
+### 🤖 MLOps Portfolio (In Progress)
+Building end-to-end ML deployment infrastructure:
+- Model serving with Kubernetes + Seldon/KServe
+- Feature store implementation
+- ML pipeline orchestration with Airflow
+- Model monitoring and drift detection
 - [Repository Coming Soon]
 
-### 🛡️ TEE Security Audit Framework
-Building tools for auditing confidential computing implementations:
-- Attestation verification
-- Side-channel resistance testing
-- Sealed storage security analysis
+### 📊 Data Platform Engineering
+Infrastructure for data pipelines at scale:
+- Stream processing with Kafka
+- Batch orchestration with Airflow
+- Data quality monitoring
 - [Repository Coming Soon]
 
-### 🧩 Bitcoin Infrastructure Security Toolkit
-Open-source security templates and protocols:
-- Key ceremony procedures
-- Threat modeling frameworks
-- Disaster recovery protocols
-- [Repository Coming Soon]
+### 🏗️ Platform Engineering Templates
+Production-ready IaC and GitOps templates:
+- Terraform modules for AWS/GCP
+- Kubernetes operators for common patterns
+- Observability stack configurations
+- [Public Repository Coming Soon]
+
+---
 
 ## 🎓 Learning & Writing
 
-**Currently deep-diving:**
-- Bitcoin protocol security (Script vulnerabilities, consensus attacks)
-- Threshold cryptography (FROST protocol, security proofs)
-- Confidential computing (Nitro architecture, side-channel attacks)
-- Production security (key management, incident response)
+**Currently studying:**
+- MLOps: Model deployment, feature engineering, ML observability
+- Data Engineering: Stream processing, data pipeline orchestration
+- Advanced Kubernetes: Operators, service mesh, multi-cluster management
 
-**Technical writing:**
-- Security analysis of cryptographic protocols
-- Threat modeling for Bitcoin infrastructure
-- Implementation security best practices
-- 📝 [Wartime Engineer](https://medium.com/@jackhoudini) 
+**Writing about:**
+- Platform engineering best practices
+- SRE principles for ML systems
+- Infrastructure automation
+- 📝 [Blog: Wartime Engineer](https://medium.com/@jackhoudini)
 
-## 🏆 Background
-
-- 🔐 Building Bitcoin + Lightning infrastructure at scale (100k+ users across Africa)
-- 🛡️ Implemented security automation and compliance frameworks (PCI-DSS, SOC2)
-- 🧹 Led zero-downtime migrations to Kubernetes
-- 📖 BTrust Faculty - Teaching Bitcoin protocol development
-- 🔧 Built observability and security monitoring pipelines
-
-## 📚 Open Source Contributions
-
-Contributing to Bitcoin infrastructure security:
-- rust-bitcoin ecosystem (planned)
-- FROST implementations (planned)
-- Security tooling and documentation
+---
 
 ## 💼 Open to Opportunities
 
-Seeking roles in:
-- Bitcoin infrastructure security engineering
-- Cryptographic protocol implementation & auditing  
-- Threshold cryptography research & development
-- Security architecture for Bitcoin systems
+Actively seeking:
+- **Senior Platform Engineer** roles
+- **MLOps Engineer** positions
+- **Data Platform Engineer** opportunities
+- **Staff SRE** roles focused on ML/data infrastructure
 
-**Interested in**: Remote roles with Bitcoin companies, security-focused engineering positions, applied cryptography research.
+---
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing Bitcoin security, threshold cryptography, confidential computing, or potential collaborations.
+Open to discussing platform engineering, MLOps, reliability engineering, or potential opportunities.
 
-
-- 📧 Email: [nonsoamadi@aol.com](nonsoamadi@aol.com)
+- 📧 Email: nonsoamadi@aol.com
+- 💼 LinkedIn: [linkedin.com/in/nonso-amadi](https://www.linkedin.com/in/nonso-amadi/)
 - 🐦 Twitter: [@jackhoudini__](https://twitter.com/jackhoudini__)
-- 💼 LinkedIn: [nonso-amadi](https://www.linkedin.com/in/nonso-amadi/)
 - 📝 Blog: [Wartime Engineer](https://medium.com/@jackhoudini)
+
 ---
-
-
-
-**Currently building**: Bitcoin infrastructure security toolkit with threshold cryptography and TEE integration  
-**Currently researching**: FROST security models, side-channel resistance in Bitcoin key operations  
-**Currently seeking**: Remote Bitcoin infrastructure security roles
