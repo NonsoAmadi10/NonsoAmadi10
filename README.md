@@ -1,34 +1,39 @@
 # Chinonso Amadi
 
-## Platform Engineer × Bitcoin Protocol Developer
+## Infrastructure Engineer — Bitcoin, AI Systems & High-Stakes Platforms
 
 ---
 
-I build and operate critical infrastructure — from high-availability Kubernetes platforms to Bitcoin protocol tooling. 7+ years in production systems, with deep focus on financial infrastructure, reliability engineering, and the Bitcoin stack.
+I build infrastructure for systems that can't go down. 7+ years shipping production platforms across financial services, Bitcoin protocol, and cloud-native systems. Currently expanding into AI infrastructure — bringing reliability engineering to GPU clusters and model serving.
 
-### What I work on
+### What I build
 
-**Bitcoin & Lightning**
-- Protocol-level work: Stratum V2 benchmarking, PSBT multisig coordination, mempool analysis
-- Node operations: monitoring tooling, Lightning channel management, ecash systems
-- Custody infrastructure: 2-of-3 multisig coordinators, hardware enclave deployments
+**Bitcoin & Financial Infrastructure**
+- Hardware enclave deployments for Bitcoin custody (AWS Nitro)
+- Multisig coordination, Lightning node monitoring, mempool analysis
+- Stratum V2 protocol benchmarking and tooling
+- Compliance-ready platforms: PCI-DSS, SOC2, ISO 27001
 
-**Platform & Infrastructure**
-- Production Kubernetes clusters (EKS, bare-metal) with 99.99%+ uptime
-- Infrastructure as Code — Terraform modules for AWS, Hetzner Cloud
-- Observability: Prometheus, Grafana, Loki, Tempo, Thanos
+**Platform & Cloud Infrastructure**
+- Production Kubernetes clusters (EKS, bare-metal) — 99.99%+ uptime
+- Terraform modules for AWS and Hetzner Cloud
+- Full observability stacks: Prometheus, Grafana, Loki, Tempo, Thanos
 - GitOps, zero-downtime migrations, disaster recovery (<15 min RTO)
-- Compliance-ready systems: PCI-DSS, SOC2, ISO 27001
+
+**AI Infrastructure** *(building into)*
+- GPU cluster orchestration and scheduling on Kubernetes
+- Model serving infrastructure (vLLM, TGI, KServe)
+- Inference autoscaling and cost optimization
+- ML pipeline reliability and observability
 
 ### Featured projects
 
 | Project | What it does |
 |---------|-------------|
-| [`terraform-aws-bitcoin-enclave-node`](https://github.com/NonsoAmadi10/terraform-aws-bitcoin-enclave-node) | Terraform modules for hardened Bitcoin nodes on AWS Nitro Enclaves with OIDC CI/CD |
+| [`terraform-aws-bitcoin-enclave-node`](https://github.com/NonsoAmadi10/terraform-aws-bitcoin-enclave-node) | Terraform modules for hardened Bitcoin nodes on AWS Nitro Enclaves |
 | [`Heimdall`](https://github.com/NonsoAmadi10/Heimdall) | Real-time monitoring for Bitcoin & Lightning node operators |
 | [`psbt-coordinator`](https://github.com/NonsoAmadi10/psbt-coordinator) | 2-of-3 multisig PSBT coordinator in Rust |
 | [`mempool-fee-analysis`](https://github.com/NonsoAmadi10/mempool-fee-analysis) | Mempool-based fee estimation API and CLI |
-| [`bitcoin-address-analyzer`](https://github.com/NonsoAmadi10/bitcoin-address-analyzer) | Bitcoin address validation and analysis CLI in Rust |
 | [`zwis`](https://github.com/NonsoAmadi10/zwis) | In-memory cache with LRU, LFU, and ARC eviction policies |
 | [`abobi`](https://github.com/NonsoAmadi10/abobi) | CLI that converts env files into Kubernetes base64-encoded secrets |
 
