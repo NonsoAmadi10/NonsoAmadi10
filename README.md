@@ -1,30 +1,35 @@
 # Chinonso Amadi
 
-## Infrastructure Engineer — Bitcoin, AI Systems & High-Stakes Platforms
+## Crypto Infrastructure Security Engineer — Bitcoin · Ethereum · Solana
 
 ---
 
-I build infrastructure for systems that can't go down. 7+ years shipping production platforms across financial services, Bitcoin protocol, and cloud-native systems. Currently expanding into AI infrastructure — bringing reliability engineering to GPU clusters and model serving.
+I secure the infrastructure that moves money on-chain. 7+ years building and hardening production platforms for Bitcoin financial systems, validator infrastructure, and custody architectures. Not smart contract auditing — the nodes, keys, and systems beneath.
 
 ### What I build
 
-**Bitcoin & Financial Infrastructure**
+**Bitcoin & Lightning Security**
 - Hardware enclave deployments for Bitcoin custody (AWS Nitro)
-- Multisig coordination, Lightning node monitoring, mempool analysis
+- Multisig coordination, PSBT workflows, key ceremony design
+- Lightning node hardening — watchtowers, channel backups, macaroon ACLs
 - Stratum V2 protocol benchmarking and tooling
+
+**Multi-Chain Validator & Node Infrastructure**
+- Ethereum validator operations — sentry architecture, slashing protection, Web3Signer
+- Solana validator hardening — RPC isolation, vote monitoring, leader slot security
+- Production Kubernetes clusters (EKS, bare-metal) — 99.99%+ uptime
+- Full observability: Prometheus, Grafana, Loki, Tempo, Thanos
+
+**Key Management & Custody**
+- HSM integration for transaction signing (CloudHSM, YubiHSM)
+- MPC and threshold signature architectures (FROST, TSS)
+- Hot/warm/cold wallet infrastructure with automated sweep
 - Compliance-ready platforms: PCI-DSS, SOC2, ISO 27001
 
-**Platform & Cloud Infrastructure**
-- Production Kubernetes clusters (EKS, bare-metal) — 99.99%+ uptime
-- Terraform modules for AWS and Hetzner Cloud
-- Full observability stacks: Prometheus, Grafana, Loki, Tempo, Thanos
-- GitOps, zero-downtime migrations, disaster recovery (<15 min RTO)
-
-**AI Infrastructure** *(building into)*
-- GPU cluster orchestration and scheduling on Kubernetes
-- Model serving infrastructure (vLLM, TGI, KServe)
-- Inference autoscaling and cost optimization
-- ML pipeline reliability and observability
+**Cross-Chain & Bridge Security**
+- Bridge monitoring and anomaly detection
+- Circuit breaker patterns for cross-chain operations
+- On-chain forensics and incident response
 
 ### Featured projects
 
@@ -39,7 +44,7 @@ I build infrastructure for systems that can't go down. 7+ years shipping product
 
 ### Stack
 
-`Go` · `Rust` · `Python` · `Terraform` · `Kubernetes` · `AWS` · `Docker` · `Helm` · `ArgoCD` · `Prometheus` · `Bitcoin Core` · `LND`
+`Go` · `Rust` · `Python` · `Terraform` · `Kubernetes` · `AWS` · `Docker` · `Helm` · `ArgoCD` · `Prometheus` · `Bitcoin Core` · `LND` · `Geth` · `Lighthouse` · `Solana`
 
 ### Certifications
 
