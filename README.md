@@ -4,14 +4,14 @@
 
 ---
 
-I secure the infrastructure that moves money on-chain. 7+ years building and hardening production platforms for Bitcoin financial systems, validator infrastructure, and custody architectures. Not smart contract auditing — the nodes, keys, and systems beneath.
+I secure the infrastructure that moves money on-chain — not smart contracts, but the nodes, validators, key management systems, and production clusters beneath them. 7+ years building and hardening Bitcoin and Lightning infrastructure at scale.
 
 ### What I build
 
 **Bitcoin & Lightning Security**
 - Hardware enclave deployments for Bitcoin custody (AWS Nitro)
+- LND hardening — watchtowers, channel backup automation, macaroon ACLs
 - Multisig coordination, PSBT workflows, key ceremony design
-- Lightning node hardening — watchtowers, channel backups, macaroon ACLs
 - Stratum V2 protocol benchmarking and tooling
 
 **Multi-Chain Validator & Node Infrastructure**
@@ -23,13 +23,13 @@ I secure the infrastructure that moves money on-chain. 7+ years building and har
 **Key Management & Custody**
 - HSM integration for transaction signing (CloudHSM, YubiHSM)
 - MPC and threshold signature architectures (FROST, TSS)
-- Hot/warm/cold wallet infrastructure with automated sweep
+- Hot/warm/cold wallet infrastructure with policy engines
 - Compliance-ready platforms: PCI-DSS, SOC2, ISO 27001
 
-**Cross-Chain & Bridge Security**
-- Bridge monitoring and anomaly detection
-- Circuit breaker patterns for cross-chain operations
+**Bridge & Cross-Chain Security**
+- Bridge monitoring, anomaly detection, circuit breaker patterns
 - On-chain forensics and incident response
+- Hack analysis: infrastructure controls that prevent the next Ronin/Wormhole
 
 ### Featured projects
 
