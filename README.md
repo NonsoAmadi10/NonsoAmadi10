@@ -1,10 +1,10 @@
 # Chinonso Amadi
 
-## Crypto Infrastructure Security Engineer — Bitcoin · Ethereum · Solana
+## Bitcoin Infrastructure Security Engineer
 
 ---
 
-I secure the infrastructure that moves money on-chain — not smart contracts, but the nodes, validators, key management systems, and production clusters beneath them. 7+ years building and hardening Bitcoin and Lightning infrastructure at scale.
+I secure the infrastructure that moves money on-chain — nodes, key management systems, Lightning channels, and the production clusters beneath them. 7+ years building and hardening Bitcoin and Lightning infrastructure at scale.
 
 ### What I build
 
@@ -14,11 +14,11 @@ I secure the infrastructure that moves money on-chain — not smart contracts, b
 - Multisig coordination, PSBT workflows, key ceremony design
 - Stratum V2 protocol benchmarking and tooling
 
-**Multi-Chain Validator & Node Infrastructure**
-- Ethereum validator operations — sentry architecture, slashing protection, Web3Signer
-- Solana validator hardening — RPC isolation, vote monitoring, leader slot security
+**Node Infrastructure & Operations**
 - Production Kubernetes clusters (EKS, bare-metal) — 99.99%+ uptime
 - Full observability: Prometheus, Grafana, Loki, Tempo, Thanos
+- Automated failover, disaster recovery, and incident response
+- Infrastructure as Code: Terraform, Helm, ArgoCD
 
 **Key Management & Custody**
 - HSM integration for transaction signing (CloudHSM, YubiHSM)
@@ -26,15 +26,11 @@ I secure the infrastructure that moves money on-chain — not smart contracts, b
 - Hot/warm/cold wallet infrastructure with policy engines
 - Compliance-ready platforms: PCI-DSS, SOC2, ISO 27001
 
-**Bridge & Cross-Chain Security**
-- Bridge monitoring, anomaly detection, circuit breaker patterns
-- On-chain forensics and incident response
-- Hack analysis: infrastructure controls that prevent the next Ronin/Wormhole
-
 ### Featured projects
 
 | Project | What it does |
 |---------|-------------|
+| [`lnd-deep-dive`](https://nonsoamadi10.github.io/lnd-deep-dive/) | 14-chapter security audit of the LND codebase — maps *Mastering the Lightning Network* to source code with 18 security findings |
 | [`terraform-aws-bitcoin-enclave-node`](https://github.com/NonsoAmadi10/terraform-aws-bitcoin-enclave-node) | Terraform modules for hardened Bitcoin nodes on AWS Nitro Enclaves |
 | [`Heimdall`](https://github.com/NonsoAmadi10/Heimdall) | Real-time monitoring for Bitcoin & Lightning node operators |
 | [`psbt-coordinator`](https://github.com/NonsoAmadi10/psbt-coordinator) | 2-of-3 multisig PSBT coordinator in Rust |
@@ -44,7 +40,7 @@ I secure the infrastructure that moves money on-chain — not smart contracts, b
 
 ### Stack
 
-`Go` · `Rust` · `Python` · `Terraform` · `Kubernetes` · `AWS` · `Docker` · `Helm` · `ArgoCD` · `Prometheus` · `Bitcoin Core` · `LND` · `Geth` · `Lighthouse` · `Solana`
+`Go` · `Rust` · `Python` · `Terraform` · `Kubernetes` · `AWS` · `Docker` · `Helm` · `ArgoCD` · `Prometheus` · `Bitcoin Core` · `LND`
 
 ### Certifications
 
